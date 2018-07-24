@@ -2,8 +2,10 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
-  "license": "MIT",
+  "author": "Paulina Lapinska",
+  "license": "ISC",
+  "description": "My first React app",
+  "repository": "git@github.com:lapinskap/expensify.git",
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
