@@ -105,6 +105,7 @@ export default (state = {}, action) => {
 * Jest
 * Enzyme
 * SCSS
+* Hooks
 * Ecmascript 6
 
 ## Status
