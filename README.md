@@ -113,5 +113,5 @@ Project is: _finished_
 
 ## Inspiration
 
-React App created with Andrew Mead course. 
+React App created with Andrew Mead budget application - recreating existing application was a great opportunity to train good practices in React
 
